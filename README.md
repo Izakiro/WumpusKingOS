@@ -6,7 +6,7 @@ Je suis Tristan, étudiant Belge universitaire en sciences informatiques. Je sui
 ### État du projet
 Je compte laisser le bot ainsi, je vais me pencher vers des projets différents, peut-être que j'ajouterais des fonctionnalités dans le futur, mais pour l'instant, ce n'est pas prévu.
 ### Contribution(s)
--[Gaëtan](https://github.com/gbessot): il m'a aidé tout le long du projet afin de me corriger et de m'enseigner le programmation javascript.
+- [Gaëtan](https://github.com/gbessot) : il m'a aidé tout le long du projet afin de me corriger et de m'enseigner le programmation javascript.
 ## Utiliser le bot
 ### Prérequis
 - Il faut avoir Node.js sur sa machine, il est disponible [ici](https://nodejs.org/en/download).
