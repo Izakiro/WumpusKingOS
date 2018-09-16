@@ -1,9 +1,14 @@
-#Changelog
+# Changelog
 Tous les changements seront indiqués ici.
 
 ## [Unreleased]
 
-##[1.5.0] - 2018/09/06 ~ 00:00
+## [1.6.0] - 2018/09/17 ~ 00:30
+### Changed
+- Wumpus King 1st => WumpusKingOS
+- Open-source
+
+## [1.5.0] - 2018/09/06 ~ 00:00
 ### Added
 - Commande de sondage [/sondage]
 - Commande de chien [/chien]
@@ -14,7 +19,7 @@ Tous les changements seront indiqués ici.
 - Mise à jour => message embed1 et embed 2
 - Mise à jour des commandes embeds
 
-##[1.4.0] - 2018/09/04 ~ 22:55
+## [1.4.0] - 2018/09/04 ~ 22:55
 ### Added
 - Commande de suggestion [/suggestion]
 - Commande de reminder [/remindme,/remindhim]
@@ -22,7 +27,7 @@ Tous les changements seront indiqués ici.
 ### Changed
 - Mise à jour => message embed2
 
-##[1.3.0] - 2018/09/03 ~ 00:15
+## [1.3.0] - 2018/09/03 ~ 00:15
 ### Added
 - Commandes => messages embed automatisé [/setembed,/sendimage]
 
@@ -43,7 +48,7 @@ Tous les changements seront indiqués ici.
 - !discord_link
 - !why_truesociety
 
-##[1.2.0] - 2018/08/27 ~ 00:34
+## [1.2.0] - 2018/08/27 ~ 00:34
 ### Added
 - Commande => whois [!addwhois, !delwhois, !whois]
 
@@ -53,7 +58,7 @@ Tous les changements seront indiqués ici.
 - Mise à jour => message embed2
 - Optimisation du code
 
-##[1.1.1] - 2018/08/25 ~ 22h04
+## [1.1.1] - 2018/08/25 ~ 22h04
 ### Added
 - Commandes => admin [!addrole, !delrole]
 
